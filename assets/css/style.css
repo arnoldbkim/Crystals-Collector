@@ -1,0 +1,28 @@
+body {
+	
+	background-image: url("../images/background.jpg");
+}
+h1 {
+	color: black;
+}
+
+p {
+	color: black;
+    font-size: 15px;
+    float: left;
+}
+
+
+#footer_container {
+	bottom: 0;
+	right:0;
+	left:0;
+	
+	text-align: center;
+	
+	 position: fixed;
+	 
+	}
+
+
+body { color: black; }
